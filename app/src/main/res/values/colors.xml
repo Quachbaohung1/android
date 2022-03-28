@@ -10,4 +10,6 @@
     <color name="orange">#E69C53</color>
     <color name="light_blue">#4AC7D7</color>
     <color name="violet">#7A53BF</color>
+    <color name="red">#FF0000</color>
+    <color name="cyan">#00FFFF</color>
 </resources>

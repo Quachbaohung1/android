@@ -23,7 +23,7 @@ public class TimeActivity extends AppCompatActivity {
     private void CurrentTime(){
         final AlertDialog alert = new AlertDialog.Builder(this).create();
         Date time = new Date();
-        String message = "Current time : " + time;
+        String message = "Current time: " + time;
         alert.setMessage(message);
         alert.show();
     }
